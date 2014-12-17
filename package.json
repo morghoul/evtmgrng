@@ -1,0 +1,30 @@
+{
+    "name": "evtmgrng",
+    "version": "0.0.1",
+    "description": "Event Manager NG",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/morghoul/evtmgrng.git"
+    },
+    "author": {
+        "name": "Duran Alp"
+    },
+    "contributors": [
+        {
+            "name": "Marco Jahn",
+            "email": "marco.jahn@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/morghoul/evtmgrng/issues"
+    },
+    "homepage": "https://github.com/morghoul/evtmgrng",
+    "engines": {
+        "node": ">=0.10.*"
+    }
+}
